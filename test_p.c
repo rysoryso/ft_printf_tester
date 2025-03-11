@@ -1,5 +1,6 @@
 #include <stdio.h>
-#include "../git/ft_printf.h"
+//#include "../git/ft_printf.h"
+#include "../ft_printf_git/ft_printf.h"
 
 int main(void)
 {
